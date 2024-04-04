@@ -12,10 +12,10 @@ export default function Navbar() {
                     <Nav.Link href="/home">Home</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="link-1">Login</Nav.Link>
+                    <Nav.Link eventKey="/login">Login</Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
-                    <Nav.Link eventKey="link-2">Register</Nav.Link>
+                    <Nav.Link eventKey="/register">Register</Nav.Link>
                 </Nav.Item>
             </Nav>
         </>
